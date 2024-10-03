@@ -1,0 +1,8 @@
+name: JythonChestSorter
+version: '${project.version}'
+main: me.daifuku.jythonchestsorter.JythonChestSorter
+api-version: '1.20'
+commands:
+  backpack:
+    description: Portable storage system.
+    usage: /<command>
